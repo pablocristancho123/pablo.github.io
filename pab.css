@@ -1,0 +1,13 @@
+body { 
+ background: gray;
+}
+h1{
+    font-weight: 700;
+    font-family: "Calibri";
+    text-align: center;
+}
+h2{
+    color: red;
+    font-weight: 400;
+    font-family: "Arial";
+    text-decoration:underline;
